@@ -1,0 +1,10 @@
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\ConexaoBd\obj\Debug\ConexaoBd.csprojResolveAssemblyReference.cache
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\ConexaoBd.dll
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\ConexaoBd.pdb
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\ConexaoBd\obj\Debug\ConexaoBd.dll
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\ConexaoBd\obj\Debug\ConexaoBd.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\ConexaoBd.dll.config
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\EntityFramework.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\EntityFramework.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\ConexaoBd\bin\Debug\EntityFramework.SqlServer.xml

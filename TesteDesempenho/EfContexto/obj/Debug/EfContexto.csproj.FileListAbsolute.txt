@@ -1,0 +1,10 @@
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EfContexto.dll.config
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EfContexto.dll
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EfContexto.pdb
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EntityFramework.dll
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EntityFramework.xml
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\obj\Debug\EfContexto.csprojResolveAssemblyReference.cache
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\obj\Debug\EfContexto.dll
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\EfContexto\obj\Debug\EfContexto.pdb

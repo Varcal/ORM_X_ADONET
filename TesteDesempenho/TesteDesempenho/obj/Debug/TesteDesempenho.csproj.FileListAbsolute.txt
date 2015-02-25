@@ -1,0 +1,14 @@
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\TesteDesempenho.exe.config
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\TesteDesempenho.exe
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\TesteDesempenho.pdb
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\ConexaoBd.dll
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\ConexaoBd.pdb
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\obj\Debug\TesteDesempenho.csprojResolveAssemblyReference.cache
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\obj\Debug\TesteDesempenho.exe
+c:\users\cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\obj\Debug\TesteDesempenho.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\EntityFramework.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\EntityFramework.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\EfContexto.dll
+C:\Users\Cleber\documents\visual studio 2013\Projects\TesteDesempenho\TesteDesempenho\bin\Debug\EfContexto.pdb
